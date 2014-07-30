@@ -16,6 +16,6 @@ trait Publications {
   }
 
   object BspClientApi {
-    val Model = "com.instantor.bsp" % "bspclientapi-model" % "0.2.0"
+    val Model = "com.instantor.bsp" % "bspclientapi-model" % "0.2.1"
   }
 }
